@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59048022653",
+    "firebase_url": "https://researchroom-143007.firebaseio.com",
+    "project_id": "researchroom-143007",
+    "storage_bucket": "researchroom-143007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59048022653:android:afefc6017eef6d9e",
+        "android_client_info": {
+          "package_name": "com.ramesh.sujata.researchroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59048022653-snalovvgaq09dpu87v392o8cji97j2im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramesh.sujata.researchroom",
+            "certificate_hash": "FDC4C6A74FE6B509C6C0CB777146075A11233203"
+          }
+        },
+        {
+          "client_id": "59048022653-ehnp71nehg7of0gkd6i25bkigt0hn5k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9y0bS3BnFWoHqH1hGkp2bUZwRYWayB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59048022653-ehnp71nehg7of0gkd6i25bkigt0hn5k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
